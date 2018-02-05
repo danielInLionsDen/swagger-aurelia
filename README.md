@@ -1,2 +1,2 @@
 # swagger-aurelia
-Trial code to eliminate typings
+Trial codegen impl to eliminate typings.
